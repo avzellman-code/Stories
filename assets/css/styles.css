@@ -10,13 +10,3 @@ p {
 	color: #82448D;
 }
 
-.backgroundImage {
-	background-image: url(../img/twist.jpg);
-	width: 576px;
-	
-}
-
-.backgroundImage:hover {
-	background-image: url(../img/mnight.jpg);
-	cursor: crosshair;
-}
